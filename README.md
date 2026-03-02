@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-Me chamo Rafael de Mel dos Santos, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no nelson, com alguns cursos técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFECAF. Sou apaixonado por tecnologia e adoro compartilhar meu conhecimento.
+Me chamo Rafael de Mel dos Santos, tenho 20 anos e sou natural de São Paulo. Concluí alguns cursos técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFECAF. Sou apaixonado por tecnologia e adoro compartilhar meu conhecimento.
 
 ---
 
